@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArreyChan&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArreyChan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ArreyChan/ArreyChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
