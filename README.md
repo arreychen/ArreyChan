@@ -3,11 +3,11 @@
 
 - :postbox:Contact me by arreychan@outlook.com, I process and respond every weekend.
 - :tent:Welcome to my website: [www.arreychan.com](http://www.arreychan.com).
-- :point_right:Only repository with a number in front of their name follow the MIT Licence, others require authorisation:copyright:.
+- :point_right:Only repository with a number in front of their name follow the `MIT Licence`, others require authorisation:copyright:.
+
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
