@@ -3,13 +3,13 @@
 
 - :postbox:Contact me by arreychan@outlook.com, I process and respond every weekend.
 - :tent:Welcome to my website: [www.arreychan.com](http://www.arreychan.com).
-- :point_right:Only repository with a number in front of their name follow the `MIT Licence`, others require authorisation:copyright:.
+- :point_right:Only repository with a number in front of their name follow the `MIT License`, others require authorisation:copyright:.
 
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
@@ -17,8 +17,6 @@
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArreyChan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
