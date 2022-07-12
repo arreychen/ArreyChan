@@ -1,9 +1,9 @@
 <h1 align="center">Hi :wink:, I'm Arrey :leo:</h1>
 <h3 align="center">A frontend and independent game developer</h3>
 
-- :postbox:Contact me by arreychan@outlook.com, I process and respond every weekend.
-- :tent:Welcome to my website: [www.arreychan.com](http://www.arreychan.com).
-- :point_right:Only repository with a number in front of their name follow the `MIT License`, others require authorisation:copyright:.
+- :postbox:Email me via arreychan[at]outlook[dot]com. I respond on weekends.
+- :tent:Feel free to visit my website:[www.arreychan.com](http://www.arreychan.com).
+- :point_right:Only repository with a number in front of their name follow the `MIT License`, others require authorization:copyright:.
 
 ### Languages and Tools:
 
